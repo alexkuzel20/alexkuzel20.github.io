@@ -2,4 +2,6 @@
 layout: basiclayout
 ---
 
-hi!
+# Sculpting
+
+[index](../)

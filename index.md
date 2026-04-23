@@ -4,13 +4,13 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
 
-[Home page](/pages/home.md)
+[Home page](pages/home.md)
 
-[blog](/pages/blog.md)
+[blog](pages\blog.md)
 
-[sculpting](/pages/sculpting.md)
+[sculpting](\pages\sculpting.md)
 
 There should be whitespace between paragraphs.
 
