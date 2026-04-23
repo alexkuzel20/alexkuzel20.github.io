@@ -8,6 +8,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Home page](./pages/home.md)
 
+[blog](./pages/blog.md)
+
+[sculpting](./pages/sculpting.md)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -100,7 +104,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<!-- ![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
 
 
 ### Definition lists can be used with HTML syntax.
