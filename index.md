@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://alexkuzel20.github.io/pages/another-page)
+[Link to another page](https://alexkuzel20.github.io/another-page)
 
 [Home page](https://alexkuzel20.github.io/pages/home)
 
