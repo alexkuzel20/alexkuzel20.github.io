@@ -4,7 +4,7 @@ html {
 
 body {
     padding-top: 150px;
-    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    font-family: "Noto Serif", Garamond, Arial, serif;
 }
 
 .column {
@@ -16,9 +16,13 @@ body {
     padding-bottom: 10%;
 }
 
+hr {
+  border: 1px solid black;
+}
+
 
 h1 {
-    font-weight: 400;
+    font-weight: bolder;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
     margin-left: 5%;
@@ -28,6 +32,14 @@ h1 {
 }
 
 h2 {
+    font-weight: bold;
+    padding-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h3 {
+    font-style: italic;
     padding-top: 30px;
     margin-left: 5%;
     margin-right: 5%;
@@ -40,7 +52,7 @@ p {
     padding-left: 10%;
     padding-right: 10%;
     max-width: 100rem;
-    padding-bottom: 10%;
+    padding-bottom: 10px;
 }
 
 .demo_font_arial{

@@ -11,17 +11,6 @@ I'm an incredibly offline person, and don't have much internet presence outside 
 ### New(er)sletter?
 I've been sending out monthly newsletters for a while, just Life Updates from myself really, but while Wix had integrated tools for that, it seems to be an involved process to integrate email tools into a site like this. This is probably for the best, I'm uncomfortable around all the AI-propoganda put into all these tools and I've got very minimal+DiY sensibilities, so I will likely continue using Wix's newsletter services for the time being and then transition to just emailing people directly from my personal email. There's only a few of you anyway, it's not like I need some crazy powerful machinery for a simple task.
 
-If you aren't on that list and want to be, you can head to [My Old Site](https://alexkuzel20.wixsite.com/world), or email me below and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
-
-<form action="mailto:alexkuzel20@gmail.com" method="get" enctype="text/plain">
-    Subject:<br>
-    <input type="text" name="subject" placeholder="Newsletter Please :)"><br>
-    Email:<br>
-    <input type="email" name="email" placeholder="Your Email"><br>
-    Message:<br>
-    <textarea name="body" rows="5" cols="30" placeholder="Hello please send me the newsletter, thank you and have a great day"></textarea><br>
-    <input type="submit" value="Send">
-  </form>
-
+If you aren't on that list and want to be, you can head to [My Old Site](https://alexkuzel20.wixsite.com/world), or email me and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
 
 Template for my website is based off of this [minimal Jekyll theme](https://github.com/pages-themes/minimal).

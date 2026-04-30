@@ -10,7 +10,6 @@ I painted a whole bunch of miniatures throughout high school and college (you'll
 
 What you won't find in the collections below are miniatures that I painted for other people (who now have them) or any terrain. I made so much terrain, mainly for 40k/Kill Team, and including that would take up its own archive. I'll eventually include it all because the stuff I made from scratch I'm arguably prouder of than most of the miniatures, but the terrain is large less photogenic. 
 
-
 ### The Archive
 
 [Dungeons & Dragons (2017-2021)](https://alexkuzel20.github.io/pages/miniaturesPages/dnd)
