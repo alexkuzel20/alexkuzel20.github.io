@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Dungeons & Dragons Miniatures (2017-2021)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
 Blah blah blah heres some contexual text about general emotions
 
@@ -49,7 +49,7 @@ Blah blah blah heres some contexual text about general emotions
 ---
 
 ![dnd8](/assets/img/miniatures/dnd/08.jpg)
-*8. One of the first (actually, THE first I think,) minis I painted without an explicit guide as to which paint to use for which part. I realyl like that I remember small details like this.*
+*8. One of the first (actually, THE first I think,) minis I painted without an explicit guide as to which paint to use for which part. I really like that I remember small details like this.*
 
 ---
 
@@ -99,7 +99,7 @@ Blah blah blah heres some contexual text about general emotions
 ---
 
 ![dnd18](/assets/img/miniatures/dnd/18.jpg)
-*18. I definitely painted this one around late 2018/early 2019 (senior year of highschool for me) and I can tell because of the paints used on this model - I was starting to paint Warhammer models then and can generally see whether I've painted a model with the nicer Citadel/Warhammer paints or the more watery pre-thinned Reaper paints. Again, this is a weird flex, like being able to taste the difference between wine vintages, but let me have this win lol.*
+*18. I definitely painted this one around late 2018/early 2019 (senior year of highschool for me) and I can tell because of the paints used on this model - I was starting to paint Warhammer models then and can generally see whether I've painted a model with the nicer Citadel (Warhammer  brand) paints or the more watery pre-thinned Reaper paints. Again, this is a weird flex, like being able to taste the difference between wine vintages, but let me have this win lol.*
 
 ---
 
@@ -114,7 +114,7 @@ Blah blah blah heres some contexual text about general emotions
 ---
 
 ![dnd21](/assets/img/miniatures/dnd/21.jpg)
-*21. Okay, I didn't *paint *these, since I got them at a Free Comic Book Day event, but they're still cool right? I had to include them for completeness sake. (the middle one is actually another Reaper Mini I bought tbh)*
+*21. Okay, I didn't* paint *these, since I got them at a Free Comic Book Day event, but they're still cool right? I had to include them for completeness sake. (the middle one is actually another Reaper Mini I bought tbh)*
 
 ---
 
@@ -184,7 +184,7 @@ Blah blah blah heres some contexual text about general emotions
 ---
 
 ![dnd35](/assets/img/miniatures/dnd/35.jpg)
-*35.*
+*35. Captain Flarragn - a Davy-Jones-Knockoff who was a fan-favorite recurring character in any D&D game that took place near water.*
 
 ---
 

@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# Space Wolves Miniatures (2021-2022)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+This was the first army I 3D printed, along with the Hot Boys. I was dissapointed with newer releases of official Space Wolves models; they had less unique boxes for the subfaction and the expectation was that you bought regular Space marines and painted them a different shade of blue. So I was seeking out printer files to make the most aggressivley viking-themed amry. Because the bits are cobbled together from several different sources, they look a bit weird, but I love 'em.
 
 ![family photo](/assets/img/miniatures/space_wolves/21.jpg)
 *The gang*
@@ -78,37 +78,38 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 
 ---
 
-![space_wolves14](/assets/img/miniatures/space_wolves/14.jpg)
+<!--![space_wolves14](/assets/img/miniatures/space_wolves/14.jpg)
 *14.*
 
 ---
 
+-->
 ![space_wolves15](/assets/img/miniatures/space_wolves/15.jpg)
-*15.*
+*14.*
 
 ---
 
 ![space_wolves16](/assets/img/miniatures/space_wolves/16.jpg)
-*16.*
+*15. These models are magnetized, the arms can be swapped out for a more conventional Chainsword+Bolter combo, but the hammer and shield combo looks way better.*
 
 ---
 
 ![space_wolves17](/assets/img/miniatures/space_wolves/17.jpg)
-*17.*
+*16.*
 
 ---
 
 ![space_wolves18](/assets/img/miniatures/space_wolves/18.jpg)
-*18.*
+*17.*
 
 ---
 
 ![space_wolves19](/assets/img/miniatures/space_wolves/19.jpg)
-*19.*
+*18. Arms are magnetized on these Dreadnoughts as well.*
 
 ---
 
 ![space_wolves20](/assets/img/miniatures/space_wolves/20.jpg)
-*20.*
+*19.*
 
 ---

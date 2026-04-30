@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# Imperial Guard Miniatures (2022)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+This army is fully 3D printed. All the sculpts are from [redmakers](https://red-makers.com/), I wanted a wintery themed Imperial Guard faction to compliment the snowy Space Wolves. I was painting these at home, during my junior year college internship. Every night after work I would video call Katrina from my parents dining room table and paint miniatures.
 
 ![family photo](/assets/img/miniatures/imperial_guard/21.jpg)
 *The gang*
@@ -19,7 +19,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![imperial_guard2](/assets/img/miniatures/imperial_guard/02.jpg)
-*2.*
+*2. Imperial Guard are sort of a horde faction, so I painted two squads of 10 models, shown side by side since they're the same (or nearly) sculpt. I can't recall if I intended them being different shades of blue, or if I unintentionally had a different paint recipe loaded into my airbrush each batch.*
 
 ---
 
@@ -44,7 +44,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![imperial_guard7](/assets/img/miniatures/imperial_guard/07.jpg)
-*7.*
+*7. Its sad to say, but I think these were my laziest bath of models. I really just hit them with the airbrush and quickly highlighted metallic bits, then called it a day. Sort of justified since I had so many to paint, but I don't feel the same pride that I do with other factions.*
 
 ---
 
@@ -69,7 +69,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![imperial_guard12](/assets/img/miniatures/imperial_guard/12.jpg)
-*12.*
+*12. Heavy Weapons Teams... love these guys. While taking pictures of models, I realized I have another squad of these, operating Heavy Bolters (or Lascannons?) instead of Mortars. Unfortunately, they were printed but never painted. *
 
 ---
 
@@ -79,7 +79,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![imperial_guard14](/assets/img/miniatures/imperial_guard/14.jpg)
-*14.*
+*14. There are 3 of these models, not three seperate pictures of the same model, but I wouldn't blame you if you thought the former lol.*
 
 ---
 
@@ -94,17 +94,17 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![imperial_guard17](/assets/img/miniatures/imperial_guard/17.jpg)
-*17.*
+*17. Leman Russ tank. This is one of my favorite models. It's so gorgeous. It was primed black and directionally airbrused from the top to get that beautiful gradient, then I it it with a whole bunch of weathering. *
 
 ---
 
 ![imperial_guard18](/assets/img/miniatures/imperial_guard/18.jpg)
-*18.*
+*18. Most of the grime and rust on these panels is just an old brush stippling brown paint, but dang. I'm proud of this one.*
 
 ---
 
 ![imperial_guard19](/assets/img/miniatures/imperial_guard/19.jpg)
-*19.*
+*19. In a world where I remained a Warhammer guy, I'm positive Imperial Guard would be my main faction and I'd still be 3D printing tanks and heavy weapon squads to this day.*
 
 ---
 

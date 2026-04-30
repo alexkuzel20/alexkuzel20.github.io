@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# Thousand Sons Miniatures (2019-2020)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+Kind of emmbarrassing, I wanted these Thousand Sons to be different from the default color scheme, so I painted them bronze instead of gold, and orange instead of yellow... and they look functionally identical. To add insult to injury, I didn't even paint the Rubric Marines all that well. The Tzaangors, though (at the end) turned out great I think, probably due to the texture I got from drybrushing the skin.
 
 ![family photo](/assets/img/miniatures/thousand_sons/12.jpg)
 *The gang*

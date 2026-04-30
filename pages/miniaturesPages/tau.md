@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# T'au Miniatures (2019)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+The T'au! No notes on these ones, I painted so many Kill Teams senior year of high school, this was just another one. Kind of sad because I conceptually like T'au. 
 
 ![family photo](/assets/img/miniatures/tau/13.jpg)
 *The gang*
@@ -39,7 +39,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![tau6](/assets/img/miniatures/tau/06.jpg)
-*6.*
+*6. Kill Team has you designate models are various specialists; Leader, Comms, Demolitionist, Zealot etc. It was a nice prompt to customize models, this one was my T'au Demolitionist, the drone bits on the base were supposed to be land mines and such.*
 
 ---
 
@@ -64,11 +64,11 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![tau11](/assets/img/miniatures/tau/11.jpg)
-*11.*
+*11. A storm knocked out power at my parent's house for an afternoon and I painted this model by candlelight.*
 
 ---
 
 ![tau12](/assets/img/miniatures/tau/12.jpg)
-*12.*
+*12. These models are stealthsuits, and the intent here is that this stealthsuit is half-cloaked.*
 
 ---

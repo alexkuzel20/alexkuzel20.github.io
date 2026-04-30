@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# Goliath Miniatures (2021)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+These models are the Goliath gang from Necromunda, a game which I intended to get into but never played, oops! I based this models loosely on Bane from the Batman mythos - I got custom heads from Forge World, Games Workshop's side-store for more expensive, lower quality resin models and bits. I also glued on a few extra bits of wire and chain to make them look more "industrial" in what I think was a mixed success. I experimented with wet blending techniques to get the green-black gradient which also was a learning process.
 
 ![family photo](/assets/img/miniatures/goliaths/07.jpg)
 *The gang*

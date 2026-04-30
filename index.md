@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](https://alexkuzel20.github.io/another-page)
 
-[Home page](https://alexkuzel20.github.io/pages/home)
+[Home page](https://alexkuzel20.github.io/pages/miniature_archive)
 
 [blog](https://alexkuzel20.github.io/pages/blog)
 

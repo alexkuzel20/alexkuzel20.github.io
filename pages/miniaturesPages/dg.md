@@ -4,9 +4,9 @@ layout: basiclayout
 
 # Death Guard Miniatures (2018-2022)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me. They were the first warhammer models I had, from the 8th Edition (Dark Imperium) starter set.
 
 ![family photo](/assets/img/miniatures/death_guard/39.jpg)
 *The gang*
@@ -14,7 +14,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard1](/assets/img/miniatures/death_guard/01.jpg)
-*1.*
+*1. This one's really more of a paint test, trying out different colors.*
 
 ---
 
@@ -24,7 +24,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard3](/assets/img/miniatures/death_guard/03.jpg)
-*3.*
+*3. "by the book" warhammer paint schemes go for a very "clean" look, which I was following in for this model. As we go forward I start figuring out grime and rust.*
 
 ---
 
@@ -84,7 +84,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard15](/assets/img/miniatures/death_guard/15.jpg)
-*15.*
+*15. I remember I had some high school project that involved me documenting the steps of building and painting specifically this model. I also remember that the stats for this guy in Kill Team were absolutley insane, like rediculously busted for this one and the one(s) with the flail.*
 
 ---
 
@@ -94,7 +94,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard17](/assets/img/miniatures/death_guard/17.jpg)
-*17.*
+*17. I got this model in a blind box at Jupiter Games, which was the greatest game store ever (in my humble opinion) before they closed down a while back. :(*
 
 ---
 
@@ -104,7 +104,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard19](/assets/img/miniatures/death_guard/19.jpg)
-*19.*
+*19. Poxwalker time! The box set I got came with 20 poxwalkers, 2 each of 10 unique sculpts. The left batch (beige colored) I did first, painting them one at a time. The jaundiced right batch I did in one big batch, assembly-line style, a few years later (summer of 2021 if memory serves).*
 
 ---
 
@@ -164,17 +164,16 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard31](/assets/img/miniatures/death_guard/31.jpg)
-*31.*
-
+*31. Lord of Contagion. This is one of my favorite paint jobs (I say this about basically all my models) and it showcases every mini-painting technique I had learned up to this point. Please appreciate the rust and staining on the armor.
 ---
 
 ![death_guard32](/assets/img/miniatures/death_guard/32.jpg)
-*32.*
+*32. Please appreciate the blending on the flames.*
 
 ---
 
 ![death_guard33](/assets/img/miniatures/death_guard/33.jpg)
-*33.*
+*33. Please appreciate the texture on the leather and cape.*
 
 ---
 
@@ -184,7 +183,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard35](/assets/img/miniatures/death_guard/35.jpg)
-*35.*
+*35. This model and the one after are actually 3d printed! Though the plague drone in the previous image is authentic. Instead of spending about 100 dollars on these two models, I spent probably 5 dollars on printer resin >:) Sometimes we get a bit scammy...*
 
 ---
 
@@ -194,101 +193,11 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![death_guard37](/assets/img/miniatures/death_guard/37.jpg)
-*37.*
+*37. The extra pictures aren't because I'm that proud of this model, I like it and all but I was sort of going through the motions, I just feel like a single picture didn't capture the vibe.*
 
 ---
 
 ![death_guard38](/assets/img/miniatures/death_guard/38.jpg)
 *38.*
-
----
-
-![death_guard39](/assets/img/miniatures/death_guard/39.jpg)
-*39.*
-
----
-
-![death_guard40](/assets/img/miniatures/death_guard/40.jpg)
-*40.*
-
----
-
-![death_guard41](/assets/img/miniatures/death_guard/41.jpg)
-*41.*
-
----
-
-![death_guard42](/assets/img/miniatures/death_guard/42.jpg)
-*42.*
-
----
-
-![death_guard43](/assets/img/miniatures/death_guard/43.jpg)
-*43.*
-
----
-
-![death_guard44](/assets/img/miniatures/death_guard/44.jpg)
-*44.*
-
----
-
-![death_guard45](/assets/img/miniatures/death_guard/45.jpg)
-*45.*
-
----
-
-![death_guard46](/assets/img/miniatures/death_guard/46.jpg)
-*46.*
-
----
-
-![death_guard47](/assets/img/miniatures/death_guard/47.jpg)
-*47.*
-
----
-
-![death_guard48](/assets/img/miniatures/death_guard/48.jpg)
-*48.*
-
----
-
-![death_guard49](/assets/img/miniatures/death_guard/49.jpg)
-*49.*
-
----
-
-![death_guard50](/assets/img/miniatures/death_guard/50.jpg)
-*50.*
-
----
-
-![death_guard51](/assets/img/miniatures/death_guard/51.jpg)
-*51.*
-
----
-
-![death_guard52](/assets/img/miniatures/death_guard/52.jpg)
-*52.*
-
----
-
-![death_guard53](/assets/img/miniatures/death_guard/53.jpg)
-*53.*
-
----
-
-![death_guard54](/assets/img/miniatures/death_guard/54.jpg)
-*54.*
-
----
-
-![death_guard55](/assets/img/miniatures/death_guard/55.jpg)
-*55.*
-
----
-
-![death_guard56](/assets/img/miniatures/death_guard/56.jpg)
-*56.*
 
 ---

@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# Genestealer Cults Miniatures (2019)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+It's a shame I have so little to say about these models collectivley, because I love them to bits. Maybe thats because the color scheme is my own decision, and not the "official" Warhammer color pallete.
 
 ![family photo](/assets/img/miniatures/gsc/17.jpg)
 *The gang*
@@ -34,7 +34,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![gsc5](/assets/img/miniatures/gsc/05.jpg)
-*5.*
+*5. So, game-wise, these models suck. Like, the regular cultists have one of the worst stat blocks in Kill Team, and most of them are equipped with autoguns, which are some of the worst weapons. I say this because this particular model accomplished the heroic feat of annihilating two Harlequinns, which were considered to be the top tier faction as of Kill Team 1st edition. To commemorate the adventures of this model, I doused him in blood and affixed a Harlequin mask after the battle.*
 
 ---
 
@@ -69,7 +69,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![gsc12](/assets/img/miniatures/gsc/12.jpg)
-*12.*
+*12. Apologies for so many game-related annecdotes: The more creature-type critters with the power tools seen previously have fantastic stats in-game and the box these models come in only contains 1 of the best weapon, seen in picture 11. Because the most optimal strategy is using as many of these industrial shears as possible, I was able to pick up a second box of the models super cheap on ebay (with the good weapons removed by the orignal owner). All of this to say, that's how I got an additional set of dynamite for this model. The dynamite was a one-use item that I'm pretty sure this model never got to use before someone shot it off the table.*
 
 ---
 

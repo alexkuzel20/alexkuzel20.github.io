@@ -2,11 +2,11 @@
 layout: basiclayout
 ---
 
-# Death Guard Miniatures (2018-2022)
+# Space Marines Miniatures (2020)
 
-[back](/index)
+[back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Death Guard are my favorite! Maybe not just because they're my oldest and I think most extensive collection. The grimy industiral look is what DiY wargaming, and presently stop motion, is all about for me.
+Many of these models are from the Dark Imperium starter set, I painted the Death Guard, and Peyton painted the Space Marine half... until he realized painting minis wasn't his thing and I finished these models. I practiced some layering and edge highlighting with this team, trying to get the "cleanest" look I could manage.
 
 ![family photo](/assets/img/miniatures/space_marines/12.jpg)
 *The gang*
@@ -14,7 +14,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![space_marines1](/assets/img/miniatures/space_marines/01.jpg)
-*1.*
+*1. Look how crisp this model is! I'm super happy with it.*
 
 ---
 
@@ -24,7 +24,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![space_marines3](/assets/img/miniatures/space_marines/03.jpg)
-*3.*
+*3. The box we had didn't really give any Marines fun gear, so I chopped off a bit of an unused Death Guard plasma gun and stuck it on this model. Lucky for me, the official sculpts for "combi-plasmas" are the exact same thing, so this wonky gun is suprisingly legit.*
 
 ---
 
@@ -34,7 +34,7 @@ Death Guard are my favorite! Maybe not just because they're my oldest and I thin
 ---
 
 ![space_marines5](/assets/img/miniatures/space_marines/05.jpg)
-*5.*
+*5. Another minor conversion - the front half of this gun is from a fancier gun one of the jetpack models in this box. Plus some guitar wire, and boom, thats a "Heavy Bolter".*
 
 ---
 
