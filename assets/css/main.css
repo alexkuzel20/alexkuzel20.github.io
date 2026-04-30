@@ -18,7 +18,8 @@ body {
 
 hr {
   border: 1px solid black;
-  margin-right: -50%;
+  margin-left: 25%;
+    margin-right: 25%;
 }
 
 

@@ -12,52 +12,65 @@ What you won't find in the collections below are miniatures that I painted for o
 
 [Dungeons & Dragons (2017-2021)](https://alexkuzel20.github.io/pages/miniaturesPages/dnd)
 ![family photo](/assets/img/miniatures/dnd/57.jpg)
+
 ---
 
 [Death Guard (2018-2022)](https://alexkuzel20.github.io/pages/miniaturesPages/dg)
 ![family photo](/assets/img/miniatures/death_guard/39.jpg)
+
 ---
 
 [T'au (2019)](https://alexkuzel20.github.io/pages/miniaturesPages/tau)
 ![family photo](/assets/img/miniatures/tau/13.jpg)
+
 ---
 
 [Genestealer Cults (2019)](https://alexkuzel20.github.io/pages/miniaturesPages/gsc)
 ![family photo](/assets/img/miniatures/gsc/17.jpg)
+
 ---
 
 [Thousand Sons (2019-2020)](https://alexkuzel20.github.io/pages/miniaturesPages/thousand_sons)
 ![family photo](/assets/img/miniatures/thousand_sons/12.jpg)
+
 ---
 
 [Space Marines (2020)](https://alexkuzel20.github.io/pages/miniaturesPages/marines)
 ![family photo](/assets/img/miniatures/space_marines/12.jpg)
+
 ---
 
 [Necrons (2020)](https://alexkuzel20.github.io/pages/miniaturesPages/necrons)
 ![family photo](/assets/img/miniatures/necrons/13.jpg)
+
 ---
 
 [Goliaths (2021)](https://alexkuzel20.github.io/pages/miniaturesPages/goliaths)
 ![family photo](/assets/img/miniatures/goliaths/07.jpg)
+
 ---
 
 [Hot Boys (2021-2022)](https://alexkuzel20.github.io/pages/miniaturesPages/hot_boys)
 ![family photo](/assets/img/miniatures/hot_boys/24.jpg)
+
 ---
 
 [Space Wolves (2021-2022)](https://alexkuzel20.github.io/pages/miniaturesPages/wolves)
 ![family photo](/assets/img/miniatures/space_wolves/21.jpg)
+
 ---
 
 [Imperial Guard (2022)](https://alexkuzel20.github.io/pages/miniaturesPages/imperial_guard)
 ![family photo](/assets/img/miniatures/imperial_guard/21.jpg)
+
 ---
 
 [Orks (2022)](https://alexkuzel20.github.io/pages/miniaturesPages/orks)
 ![family photo](/assets/img/miniatures/orks/54.jpg)
+
 ---
 
 [Gaslands (2023-2024)](https://alexkuzel20.github.io/pages/miniaturesPages/gaslands)
 ![family photo](/assets/img/miniatures/gaslands/17.jpg)
+
 ---
