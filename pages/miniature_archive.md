@@ -2,15 +2,13 @@
 layout: basiclayout
 ---
 
-## Miniatures Archive
-
-[back](../)
+# Miniatures Archive
 
 I painted a whole bunch of miniatures throughout high school and college (you'll find over 300 here!). I learned so much and had a great time in that hobby space, but have left it behind for a few reasons. In part, I felt like painting game pieces incentivized me to focus on the quantity rather than the quality of the work, and at times I felt like I wasn't "really" doing a creative task, as I was essentially painting-by-numbers a sculpture someone else made. Also, now that I'm living a lot further geographically from my friends, I don't have that same ethusiasm to paint minis for a game I would rarely play. I could find new groups at my local gamestore, but in all honesty I'm not that crazy about the games themselves, I just like making stuff and seeing my friends.
 
 What you won't find in the collections below are miniatures that I painted for other people (who now have them) or any terrain. I made so much terrain, mainly for 40k/Kill Team, and including that would take up its own archive. I'll eventually include it all because the stuff I made from scratch I'm arguably prouder of than most of the miniatures, but the terrain is large less photogenic. 
 
-### The Archive
+## The Archive
 
 [Dungeons & Dragons (2017-2021)](https://alexkuzel20.github.io/pages/miniaturesPages/dnd)
 ![family photo](/assets/img/miniatures/dnd/57.jpg)
