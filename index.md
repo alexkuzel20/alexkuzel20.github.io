@@ -1,129 +1,27 @@
 ---
-layout: default
+layout: basiclayout
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Greetings...
 
-[Link to another page](https://alexkuzel20.github.io/another-page)
+I'm Alex, welcome to my humble website! This is a portfolio site collecting all my weird little projects. It's hosted on Github Pages, since my old Wix site ran out of file storage space. I'm enjoying doing all the website work myself, learning HTML formatting and whatnot.
 
-[Home page](https://alexkuzel20.github.io/pages/miniature_archive)
+I'm an incredibly offline person, and don't have much internet presence outside of this website. I write film and book reviews on [Letterboxd](https://letterboxd.com/grungus/) and [Goodreads](https://www.goodreads.com/user/show/164570627-alex-kuzel) respectivley, but that's pretty much it. Because all of my media analysis (and some quite good analysis at times, I'd like to think) is on those sites, my blog writing here is more essay-oriented.
 
-[blog](https://alexkuzel20.github.io/pages/blog)
+### New(er)sletter?
+I've been sending out monthly newsletters for a while, just Life Updates from myself really, but while Wix had integrated tools for that, it seems to be an involved process to integrate email tools into a site like this. This is probably for the best, I'm uncomfortable around all the AI-propoganda put into all these tools and I've got very minimal+DiY sensibilities, so I will likely continue using Wix's newsletter services for the time being and then transition to just emailing people directly from my personal email. There's only a few of you anyway, it's not like I need some crazy powerful machinery for a simple task.
 
-[sculpting](https://alexkuzel20.github.io/pages/sculpting)
+If you aren't on that list and want to be, you can head to [My Old Site](https://alexkuzel20.wixsite.com/world), or email me below and say something like "Hello please send me the newsletter, thank you and have a great day" (if you don't care how my day turns out you can omit that last part).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-<!-- ![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
+<form action="mailto:alexkuzel20@gmail.com" method="get" enctype="text/plain">
+    Subject:<br>
+    <input type="text" name="subject" placeholder="Newsletter Please :)"><br>
+    Email:<br>
+    <input type="email" name="email" placeholder="Your Email"><br>
+    Message:<br>
+    <textarea name="body" rows="5" cols="30" placeholder="Hello please send me the newsletter, thank you and have a great day"></textarea><br>
+    <input type="submit" value="Send">
+  </form>
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Template for my website is based off of this [minimal Jekyll theme](https://github.com/pages-themes/minimal).

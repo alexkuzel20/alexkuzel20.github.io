@@ -4,64 +4,20 @@ layout: basiclayout
 
 # Sculpting
 
-[index](../)
+Sculpting is generally the "main" hobby I've got going on right now. Portrait/Figure sculpture in traditional water-based clay is my main focus, but when I was getting started I used polymer clay (Sculpey). 
 
-hey
+### Dragon Project
+For my 2025 holiday party I made 20 dragons out of polymer clay, and I think they're pretty neat. Check out the Dragon Archive here.
 
-lets
+- under construction -
 
-make
+### Old Old Stuff
+This is from 2022-2023 and is my attempts to follow along with random youtube tutorials or doing my own thing entirely, not realizing polymer clay was not the medium I should have been working in. Check out the Old Sculpture Archive here.
 
-sure
+- under construction -
 
-things
+## Sculpture Gallery
 
-work
+Here's the main sculpture collection, with items displayed in reverse chronilogical order. In March of 2024 I started taking [online sculpture classes](https://www.sculptureatelier.com/) and most of the earlier projects are following along with that course.
 
-with
-
-a
-
-super
-
-long
-
-page
-
-because
-
-it
-
-would
-
-be
-
-nice
-
-to
-
-make
-
-a
-
-header
-
-that
-
-stays
-
-at
-
-the
-
-top
-
-like
-
-the
-
-wix
-
-site
-
-right?
+- under construction -
