@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to the Miniatures Archive!
+## Miniatures Archive
 
 [back](../)
 
