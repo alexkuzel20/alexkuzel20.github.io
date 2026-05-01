@@ -187,3 +187,27 @@ Would you rather have a film-accurate lightsaber that you transport in bubble wr
 ***
 
 One last story. I'm 10 again, give or take a few years, and maybe at Disney, though certainly on a trip somewhere. There's sand beneath my toes. A boy my age has a toy sword and asks to duel. I don't think he spoke English but the offer was understood implicitly. He hands **me** his sword, using the sheath as a makeshift blade for himself, and I form a memory more permanent in my mind than anything else that vacation.
+
+***
+
+## (5/1/2026) DVD Special Features!
+
+Hey there, this last section was not part of the original post, but in a newsletter I sent out after posting this, I included some vacation images to prove that while I had these complicated thoughts during my trip, I still had a good time. I've included them here for archival purposes, have fun matching up the pics to their associated vignette(s) in the main post :)
+
+<img src="/assets/img/blog/bluetongue.jpg" alt="1" class="img.small">
+
+<img src="/assets/img/blog/dinosaur.jpg" alt="2" class="img.small">
+
+<img src="/assets/img/blog/epcotball.jpg" alt="3" class="img.small">
+
+<img src="/assets/img/blog/figment.jpg" alt="4" class="img.small">
+
+<img src="/assets/img/blog/katrina.jpg" alt="5" class="img.small">
+
+<img src="/assets/img/blog/michealmouse.jpg" alt="6" class="img.small">
+
+<img src="/assets/img/blog/owmyhead.jpg" alt="7" class="img.small">
+
+<img src="/assets/img/blog/serpent.jpg" alt="8" class="img.small">
+
+<img src="/assets/img/blog/swag.jpg" alt="9" class="img.small">

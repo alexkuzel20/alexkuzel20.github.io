@@ -70,7 +70,7 @@ img {
 }
 img.small {
     /* for blog posts, with titles underneath*/
-    max-width: 50%;
+    width: 50%;
     height: auto;
     padding-top: 50px;
     padding-bottom: 10px;
