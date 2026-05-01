@@ -4,6 +4,7 @@ html {
 
 body {
     padding-top: 100px;
+    padding-bottom: 100px; /*Note, lets add a site foote */
     font-family: "Noto Serif", Garamond, Arial, serif;
 }
 
@@ -66,4 +67,14 @@ img {
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+img.small {
+    /* for blog posts, with titles underneath*/
+    max-width: 50%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

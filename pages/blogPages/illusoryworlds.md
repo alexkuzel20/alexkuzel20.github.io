@@ -8,18 +8,17 @@ layout: basiclayout
 
 Consider this: It’s Friday, November 14th, and I’m in Pittsburgh’s newly-renamed Kamin Science Center. Amidst a sea of exhibits providing variations on the concept of “let children stack blocks with a plaque about the scientific method”, I stumble into a sight that rewires my brain chemistry. The Miniature Railroad & Village® is a 2,300 square foot train diorama with over a century of development, displaying a miniature version of the Pittsburgh of yesteryear. As I circle the exhibit in a state of wonderment and euphoria, I’m simultaneously overcome with a familiar sensation of longing: that I can’t spend the next 8 hours here, that my eyes are insufficient to take in the sights at the rate I wish, that I cannot be shrunk down to explore the mini-city at eye level. Or, put plainly in the words looping through my mind in the moment, “I want to **be** there”.
 
-![The famous (if you live here) Inclines... but small!](/assets/img/blog/incline.png)
+<img src="/assets/img/blog/incline.png" alt="incline" class="img.small">
 <p style="text-align: center; font-size:1.2rem;"><i>The famous (if you live here) Inclines... but small!</i></p>
 
-![I'm actually not praying to the train gods, I was holding a marshmallow for Katrina and my fingers got sticky!](/assets/img/blog/me.png)
+<img src="/assets/img/blog/me.png" alt="train" class="img.small">
 <p style="text-align: center; font-size:1.2rem;"><i>I'm actually not praying to the train gods, I was holding a marshmallow for Katrina and my fingers got sticky!</i></p>
 
 The above event is less “profound religious experience” and more a great case study to finally put a deep part of my psyche into words. What I’d like to do here is explore my relationship with miniature worlds, and the feelings of unattainability I associate with them. This will be phrased in very personal terms, as I can only speak to my own experience and doubt these emotions translate universally. 
 
 As a background/refresher, I am and always have been a lover of things handmade and small. LEGO, miniature/terrain modelling (wargaming, TTRPGs, etc.), stop motion, and intersections of those are perennial fascinations, and feel like something primordial in my brain. Despite my reluctance to assert these feelings for everyone, I recognize commonality in that children's toys are built to small scale (given the logistical issues of trying to let a toddler operate full-sized construction equipment). So to hopefully touch on common ground between myself and other former children reading this, I’m going to use “Toy Towns” as a term to refer to the wide swath of environments and landscapes built in miniature.
 
-![My brother, myself, and some of my modular wargaming terrain. 2021.
-](/assets/img/blog/peyton.png)
+<img src="/assets/img/blog/peyton.png" alt="gaming" class="img.small">
 <p style="text-align: center; font-size:1.2rem;"><i>My brother, myself, and some of my modular wargaming terrain. 2021.
 </i></p>
 
