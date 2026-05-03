@@ -193,8 +193,8 @@ One last story. I'm 10 again, give or take a few years, and maybe at Disney, tho
 ## (5/1/2026) DVD Special Features!
 
 Hey there, this last section was not part of the original post, but in a newsletter I sent out after posting this, I included some vacation images to prove that while I had these complicated thoughts during my trip, I still had a good time. I've included them here for archival purposes, have fun matching up the pics to their associated vignette(s) in the main post :)
-
-<img src="/assets/img/blog/bluetongue.jpg" alt="1" class=".img.small" width="500px">
+<div class=".img.small">
+<img src="/assets/img/blog/bluetongue.jpg" alt="1" class=".img.small" width="500px" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
 <img src="/assets/img/blog/dinosaur.jpg" alt="2" class=".img.small" width="50%">
 
@@ -211,3 +211,4 @@ Hey there, this last section was not part of the original post, but in a newslet
 <img src="/assets/img/blog/serpent.jpg" alt="8" class=".img.small">
 
 <img src="/assets/img/blog/swag.jpg" alt="9" class=".img.small">
+</div>
