@@ -194,7 +194,7 @@ One last story. I'm 10 again, give or take a few years, and maybe at Disney, tho
 
 Hey there, this last section was not part of the original post, but in a newsletter I sent out after posting this, I included some vacation images to prove that while I had these complicated thoughts during my trip, I still had a good time. I've included them here for archival purposes, have fun matching up the pics to their associated vignette(s) in the main post :)
 
-<img src="/assets/img/blog/bluetongue.jpg" alt="1" width="50%"">
+<img src="/assets/img/blog/bluetongue.jpg" alt="1" width="50%">
 
 <img src="/assets/img/blog/dinosaur.jpg" alt="2" width="50%">
 
