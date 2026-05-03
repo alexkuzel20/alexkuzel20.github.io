@@ -71,7 +71,7 @@ img {
 img.small {
     /* for blog posts, with titles underneath*/
     width: 50%;
-    height: auto;
+    height: 50%;
     padding-top: 50px;
     padding-bottom: 10px;
     display: block;
