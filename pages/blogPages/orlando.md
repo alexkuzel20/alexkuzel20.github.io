@@ -193,22 +193,21 @@ One last story. I'm 10 again, give or take a few years, and maybe at Disney, tho
 ## (5/1/2026) DVD Special Features!
 
 Hey there, this last section was not part of the original post, but in a newsletter I sent out after posting this, I included some vacation images to prove that while I had these complicated thoughts during my trip, I still had a good time. I've included them here for archival purposes, have fun matching up the pics to their associated vignette(s) in the main post :)
-<div class=".img.small">
-<img src="/assets/img/blog/bluetongue.jpg" alt="1" class=".img.small" width="500px" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/dinosaur.jpg" alt="2" class=".img.small" width="50%">
+<img src="/assets/img/blog/bluetongue.jpg" alt="1" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/epcotball.jpg" alt="3" class=".img.small">
+<img src="/assets/img/blog/dinosaur.jpg" alt="2" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/figment.jpg" alt="4" class=".img.small">
+<img src="/assets/img/blog/epcotball.jpg" alt="3" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/katrina.jpg" alt="5" class=".img.small">
+<img src="/assets/img/blog/figment.jpg" alt="4" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/michealmouse.jpg" alt="6" class=".img.small">
+<img src="/assets/img/blog/katrina.jpg" alt="5" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/owmyhead.jpg" alt="7" class=".img.small">
+<img src="/assets/img/blog/michealmouse.jpg" alt="6" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/serpent.jpg" alt="8" class=".img.small">
+<img src="/assets/img/blog/owmyhead.jpg" alt="7" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
 
-<img src="/assets/img/blog/swag.jpg" alt="9" class=".img.small">
-</div>
+<img src="/assets/img/blog/serpent.jpg" alt="8" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
+
+<img src="/assets/img/blog/swag.jpg" alt="9" width="50%" padding-top="50px" padding-bottom="10px" display="block" margin-left="auto" margin-right="auto">
