@@ -63,21 +63,6 @@ p {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.img.small {
-    /* for blog posts, with titles underneath
-    apparently this is crap*/
-    width: 50%;
-    height: 50%;
-    padding-top: 50px;
-    padding-bottom: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
