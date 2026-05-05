@@ -14,7 +14,7 @@ For my 2025 holiday party I made 20 dragons out of polymer clay, and I think the
 ### Old Old Stuff
 This is from 2022-2023 and is my attempts to follow along with random youtube tutorials or doing my own thing entirely, not realizing polymer clay was not the medium I should have been working in. Check out the Old Sculpture Archive here.
 
-- under construction -
+[Old Sculpting Archive](https://alexkuzel20.github.io/pages/sculptingPages/old_archive)
 
 ## Sculpture Gallery
 
