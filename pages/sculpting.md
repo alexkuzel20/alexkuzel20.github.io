@@ -9,7 +9,7 @@ Sculpting is generally the "main" hobby I've got going on right now. Portrait/Fi
 ### Dragon Project
 For my 2025 holiday party I made 20 dragons out of polymer clay, and I think they're pretty neat. Check out the Dragon Archive here.
 
-- under construction -
+[Dragon Archive](https://alexkuzel20.github.io/pages/sculptingPages/dragon_archive)
 
 ### Old Old Stuff
 This is from 2022-2023 and is my attempts to follow along with random youtube tutorials or doing my own thing entirely, not realizing polymer clay was not the medium I should have been working in. Check out the Old Sculpture Archive here.

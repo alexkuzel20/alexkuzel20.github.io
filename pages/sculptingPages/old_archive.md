@@ -4,7 +4,7 @@ layout: basiclayout
 
 # Old Sculpting Archive
 
-The following images are from March 2023 to February 2024, presented earliest to latest. It's all polymer clay and I was generally making things without direction or intent. These pics were originally posted to a now-defunct Instragram account. I'm not bothering to preserve the oringal dates of publication or posting, because the descriptions were quite self-deprecatory and brooding. 
+The following images are from March 2023 to February 2024, presented earliest to latest. It's all polymer clay and I was generally making things without direction or intent. These pics were originally posted to a now-defunct Instragram account. I'm not bothering to preserve the exact dates of publication or captions, because the descriptions were quite self-deprecatory and brooding. 
 
 What I'll say about these sculptures as a whole now (in 2026) is that they weren't "good" in a technical sense, but were necessary for me. Working with a difficult medium while being obvlivious to easier solutions, not following tutorials because I got frustrated when my work didn't turn out like the instructor's, and never spending more than a sitting on any given project, were all reflective of who I was in the transition from college to the career world. I do wish I took more effort into photgraphing these, but at least you can see when I changed apartments.
 
