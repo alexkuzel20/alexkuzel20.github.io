@@ -71,6 +71,9 @@ img {
 
 .row {
   display: flex;
+  margin-left: 4%;
+    margin-right: 4%;
+    max-width: 100%;
 }
 
 /* Create three equal columns that sits next to each other */

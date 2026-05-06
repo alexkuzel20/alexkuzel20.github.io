@@ -20,4 +20,14 @@ This is from 2022-2023 and is my attempts to follow along with random youtube tu
 
 Here's the main sculpture collection, with items displayed in reverse chronilogical order. In March of 2024 I started taking [online sculpture classes](https://www.sculptureatelier.com/) and most of the earlier projects are following along with that course.
 
-- under construction -
+<div class="row">
+  <div class="column_img">
+    <img src="/assets/img/sculpting/hand1.png" alt="hand" style="width:100%">
+  </div>
+  <div class="column_img">
+    <img src="/assets/img/sculpting/hand2.png" alt="also hand" style="width:100%">
+  </div>
+  <div class="column_img">
+    <img src="/assets/img/sculpting/figure.png" alt="figure" style="width:100%">
+  </div>
+</div>

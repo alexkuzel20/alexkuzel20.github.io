@@ -25,26 +25,20 @@ Dragons presented in the order in which they were made.
   <div class="column_img">
     <img src="/assets/img/dragons/01_4.jpg" alt="4" style="width:100%">
   </div>
-  <div class="column_img">
-    <img src="/assets/img/dragons/01_5.jpg" alt="5" style="width:100%">
-  </div>
 </div>
 
 ***
 
-![1](/assets/img/dragons/01_1.jpg)
+![1](/assets/img/dragons/02_1.jpg)
 <div class="row">
   <div class="column_img">
-    <img src="/assets/img/dragons/01_2.jpg" alt="2" style="width:100%">
+    <img src="/assets/img/dragons/02_2.jpg" alt="2" style="width:100%">
   </div>
   <div class="column_img">
-    <img src="/assets/img/dragons/01_3.jpg" alt="3" style="width:100%">
+    <img src="/assets/img/dragons/02_3.jpg" alt="3" style="width:100%">
   </div>
   <div class="column_img">
-    <img src="/assets/img/dragons/01_4.jpg" alt="4" style="width:100%">
-  </div>
-  <div class="column_img">
-    <img src="/assets/img/dragons/01_5.jpg" alt="5" style="width:100%">
+    <img src="/assets/img/dragons/02_4.jpg" alt="4" style="width:100%">
   </div>
 </div>
 
