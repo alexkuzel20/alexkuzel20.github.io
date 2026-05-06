@@ -1,6 +1,3 @@
-<head>
-<title>Alex Kuzel!!!</title>
-</head>
 ---
 layout: basiclayout
 ---
