@@ -10,6 +10,8 @@ What you won't find in the collections below are miniatures that I painted for o
 
 ### The Archive
 
+(Click the images to see individual models)
+
 ## Dungeons & Dragons (2017-2021)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/dnd">
 ![family photo](/assets/img/miniatures/dnd/57.jpg)
@@ -95,7 +97,7 @@ What you won't find in the collections below are miniatures that I painted for o
 ---
 
 ## Gaslands (2023-2024)
-<a href="https://alexkuzel20.github.io/pages/miniaturesPages/dnd">
+<a href="https://alexkuzel20.github.io/pages/miniaturesPages/gaslands">
 ![family photo](/assets/img/miniatures/gaslands/17.jpg)
 </a>
 
