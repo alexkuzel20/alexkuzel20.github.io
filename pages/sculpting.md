@@ -43,7 +43,7 @@ Here's the main sculpture collection, with items displayed in reverse chronilogi
     <img src="/assets/img/sculpting/portrait2.jpg" alt="portrait2" style="width:100%">
   </div>
   <div class="column_img">
-    <img src="/assets/img/sculpting/portrait3.jpg" alt="portrait3" style="width:100%">
+    <img src="/assets/img/sculpting/portrait3.png" alt="portrait3" style="width:100%">
   </div>
 </div>
 *November-December, 2024*

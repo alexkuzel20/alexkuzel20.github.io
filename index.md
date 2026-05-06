@@ -1,9 +1,7 @@
 ---
 layout: basiclayout
+<title>Alex Kuzel</title>
 ---
-<head>
-  <title>Alex Kuzel</title>
-</head>
 
 # Greetings...
 
