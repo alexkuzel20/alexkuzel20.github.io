@@ -6,7 +6,7 @@ layout: basiclayout
 
 [back](https://alexkuzel20.github.io/pages/miniature_archive)
 
-Blah blah blah heres some contexual text about general emotions
+Though I have gripes with D&D as a game, I have serious nostalgia for my time in that space, and appreciation for the path I was set on via miniature painting.
 
 ![family photo](/assets/img/miniatures/dnd/57.jpg)
 *The gang*

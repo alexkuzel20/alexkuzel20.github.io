@@ -1,10 +1,15 @@
 ---
 layout: basiclayout
 ---
+<head>
+  <title>Alex Kuzel</title>
+</head>
 
 # Greetings...
 
 I'm Alex, welcome to my humble website! This is a portfolio site collecting all my weird little projects. It's hosted on Github Pages, since my old Wix site ran out of file storage space. I'm enjoying doing all the website work myself, learning HTML formatting and whatnot.
+
+[Link to Github website respository if you want to see the code and files and such.](https://github.com/alexkuzel20/alexkuzel20.github.io)
 
 I'm an incredibly offline person, and don't have much internet presence outside of this website. I write film and book reviews on [Letterboxd](https://letterboxd.com/grungus/) and [Goodreads](https://www.goodreads.com/user/show/164570627-alex-kuzel) respectivley, but that's pretty much it. Because all of my media analysis (and some quite good analysis at times, I'd like to think) is on those sites, my blog writing here is more essay-oriented.
 

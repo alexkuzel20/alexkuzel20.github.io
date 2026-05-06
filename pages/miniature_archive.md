@@ -10,91 +10,91 @@ What you won't find in the collections below are miniatures that I painted for o
 
 ### The Archive
 
-## Dungeons & Dragons (2017-2021)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/dnd)-->
+## Dungeons & Dragons (2017-2021)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/dnd">
 ![family photo](/assets/img/miniatures/dnd/57.jpg)
 </a>
 
 ---
 
-## Death Guard (2018-2022)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/dg)-->
+## Death Guard (2018-2022)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/dg">
 ![family photo](/assets/img/miniatures/death_guard/39.jpg)
 </a>
 
 ---
 
-## T'au (2019)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/tau)-->
+## T'au (2019)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/tau">
 ![family photo](/assets/img/miniatures/tau/13.jpg)
 </a>
 
 ---
 
-## Genestealer Cults (2019)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/gsc)-->
+## Genestealer Cults (2019)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/gsc">
 ![family photo](/assets/img/miniatures/gsc/17.jpg)
 </a>
 
 ---
 
-## Thousand Sons (2019-2020)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/thousand_sons)-->
+## Thousand Sons (2019-2020)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/thousand_sons">
 ![family photo](/assets/img/miniatures/thousand_sons/12.jpg)
 </a>
 
 ---
 
-## Space Marines (2020)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/marines)-->
+## Space Marines (2020)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/marines">
 ![family photo](/assets/img/miniatures/space_marines/12.jpg)
 </a>
 
 ---
 
-## Necrons (2020)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/necrons)-->
+## Necrons (2020)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/necrons">
 ![family photo](/assets/img/miniatures/necrons/13.jpg)
 </a>
 
 ---
 
-## Goliaths (2021)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/goliaths)-->
+## Goliaths (2021)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/goliaths">
 ![family photo](/assets/img/miniatures/goliaths/07.jpg)
 </a>
 
 ---
 
-## Hot Boys (2021-2022)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/hot_boys)-->
+## Hot Boys (2021-2022)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/hot_boys">
 ![family photo](/assets/img/miniatures/hot_boys/24.jpg)
 </a>
 
 ---
 
-## Space Wolves (2021-2022)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/wolves)-->
+## Space Wolves (2021-2022)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/wolves">
 ![family photo](/assets/img/miniatures/space_wolves/21.jpg)
 </a>
 
 ---
 
-## Imperial Guard (2022)<!-->](https://alexkuzel20.github.io/pages/miniaturesPages/imperial_guard)-->
+## Imperial Guard (2022)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/imperial_guard">
 ![family photo](/assets/img/miniatures/imperial_guard/21.jpg)
 </a>
 
 ---
 
-## Orks (2022) <!-->](https://alexkuzel20.github.io/pages/miniaturesPages/orks)-->
+## Orks (2022)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/orks">
 ![family photo](/assets/img/miniatures/orks/54.jpg)
 </a>
 
 ---
 
-## Gaslands (2023-2024)<!--[Gaslands (2023-2024)](https://alexkuzel20.github.io/pages/miniaturesPages/gaslands)-->
+## Gaslands (2023-2024)
 <a href="https://alexkuzel20.github.io/pages/miniaturesPages/dnd">
 ![family photo](/assets/img/miniatures/gaslands/17.jpg)
 </a>
